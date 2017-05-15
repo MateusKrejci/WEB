@@ -1,0 +1,102 @@
+estilo.css * {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin: 0px auto 0px auto;
+    width: 960px;
+    background: white;
+}
+
+#cabecalho {
+    margin: 0px auto 0px auto;
+    width: 960px;
+    height: 82px;
+    position: relative;
+    background: #98FB98;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 48px;
+}
+
+#corpo {
+    margin: 1px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    min-height: 500px;
+}
+
+#menu {
+    margin: 0px auto 0px auto;
+    width: 160px;
+    height: 500px;
+    float: left;
+    background: #98FB98;
+}
+
+#artigo {
+    margin: 0px auto 0px auto;
+    width: 618px;
+    height: 500px;
+    float: left;
+    background: #98FB98;
+    margin-left: 10px;
+    text-align: justify;
+}
+
+.cabecalho_artigo {
+    margin: 0px auto 0px auto;
+    width: 598px;
+    height: 50px;
+    float: left;
+    background: #98FB98;
+    margin: 10px;
+    font-size: 24px;
+}
+
+.artigo {
+    margin: 0px auto 0px auto;
+    width: 598px;
+    height: 330px;
+    float: left;
+    background: white;
+    margin: 10px;
+}
+
+.rodape_artigo {
+    margin: 0px auto 0px auto;
+    width: 598px;
+    height: 50px;
+    float: left;
+    background: white;
+    margin: 10px;
+}
+
+#propaganda {
+    margin: 0px auto 0px auto;
+    width: 160px;
+    height: 500px;
+    float: left;
+    background: #98FB98;
+    margin-left: 10px;
+}
+
+#rodape {
+    margin: 0px auto;
+    padding-bottom: 20px;
+    width: 960px;
+    position: relative;
+    background: #98FB98;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+figure {
+    text-align: center;
+}
